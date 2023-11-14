@@ -1,0 +1,45 @@
+﻿Node 1,Node 2,Line Color,Line Length
+Regent's Park,Baker Street,Blue,2
+Regent's Park,British Museum,Yellow,3
+Regent's Park,King's Cross,Green,3
+Baker Street,British Museum,Orange,4
+Baker Street,Piccadilly Circus,Grey,4
+Baker Street,Hyde Park,Black,4
+King's Cross,British Museum,Black,2
+King's Cross,The Charterhouse,Pink,3
+Hyde Park,Piccadilly Circus,Grey,2
+Hyde Park,Piccadilly Circus,Grey,2
+Hyde Park,Buckingham Palace,Yellow,1
+Hyde Park,Buckingham Palace,Orange,1
+British Museum,Piccadilly Circus,Grey,2
+British Museum,Covernt Garden,Grey,1
+British Museum,Covernt Garden,Grey,1
+British Museum,The Charterhouse,Blue,4
+Covernt Garden,Piccadilly Circus,Green,1
+Covernt Garden,Piccadilly Circus,Yellow,1
+Covernt Garden,Trafalgar Square,Black,1
+Covernt Garden,Trafalgar Square,Pink,1
+Covernt Garden,StPaul's,Grey,3
+Covernt Garden,StPaul's,Grey,3
+Piccadilly Circus,Buckingham Palace,Pink,2
+Piccadilly Circus,Trafalgar Square,Blue,1
+Piccadilly Circus,Trafalgar Square,Orange,1
+Buckingham Palace,Trafalgar Square,Grey,2
+Buckingham Palace,Big Ben,Green,2
+Trafalgar Square,Big Ben,Grey,1
+Trafalgar Square,Waterloo,Grey,2
+Big Ben,Waterloo,Blue,1
+Big Ben,Elephant & Castle,Yellow,3
+Waterloo,Elephant & Castle,Orange,2
+Waterloo,Globe Theatre,Pink,2
+Elephant & Castle,Globe Theatre,Green,2
+Elephant & Castle,Tower of London,Black,4
+Globe Theatre,StPaul's,Grey,1
+Globe Theatre,StPaul's,Grey,1
+Globe Theatre,Tower of London,Grey,3
+StPaul's,The Charterhouse,Black,1
+StPaul's,Brick Lane,Orange,3
+StPaul's,Tower of London,Yellow,3
+StPaul's,Tower of London,Pink,3
+The Charterhouse,Brick Lane,Green,3
+Brick Lane,Tower of London,Blue,3
